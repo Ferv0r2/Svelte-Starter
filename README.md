@@ -4,6 +4,15 @@ Starter - `Svelte + Vite + TypeScript + TailwindCSS`
 
 Used the [SvelteKit](https://kit.svelte.dev)
 
+## Install
+
+```
+npm install
+npm run dev
+```
+
+## Official
+
 ```
 npm init svelte@next my-app
 cd my-app
